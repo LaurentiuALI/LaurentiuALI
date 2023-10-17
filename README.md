@@ -13,7 +13,7 @@ I'm interested in evolving a career as a software developer as I am just startin
 ✅ Ready for new experiences ✨ \
 ✅ Learning enthusiast 📚 
 
-Check my Bachelor's Degree [here|https://github.com/LaurentiuALI/Product-Backlog-in-Action---ts] and feel free to contact me to chat about it!
+Check my Bachelor's Degree [here](https://github.com/LaurentiuALI/Product-Backlog-in-Action---ts) and feel free to contact me to chat about it!
 
 Currently learning: 
 ### Web Development: 
