@@ -1,7 +1,7 @@
 # Hi there 👋
-
-## 💻 Computer Science Final Year Student @UVT.
-## 🔭 Former Erasmus student @JKU.
+## 💻 Computer Science Bachelor's Degree at West University of Timisoara
+## 💻 Software Engineering Masters Degree Student University of Bucharest
+## 🔭 Artificial Intelligence Bachelor's Degree Former Erasmus student Johannes Keppler University
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuALI&hide=makefile,cmake&layout=compact&theme=bear"/>
 
@@ -11,9 +11,9 @@ I'm interested in evolving a career as a software developer as I am just startin
 
 ✅ Enjoy challenges 👷‍♀️ \
 ✅ Ready for new experiences ✨ \
-✅ Learning ethusiast 📚 
+✅ Learning enthusiast 📚 
 
-I am currently writing my BSc thesis.
+Check my Bachelor's Degree [here|https://github.com/LaurentiuALI/Product-Backlog-in-Action---ts] and feel free to contact me to chat about it!
 
 Currently learning: 
 ### Web Development: 
