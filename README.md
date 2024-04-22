@@ -3,7 +3,7 @@
 ## 💻 Software Engineering Masters Degree Student University of Bucharest
 ## 🔭 Artificial Intelligence Bachelor's Degree Former Erasmus student Johannes Keppler University
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuALI&hide=makefile,cmake&layout=compact&theme=bear"/>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuALI&hide=makefile,cmake,html&layout=compact&theme=bear"/>
 
 ## 💭About me.
 Over the past two years, I have gotten in touch a lot with Computer Science, from studying programming languages, algorithmics, data structures, web development, and doing research along with writing a scientific paper. \
