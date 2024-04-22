@@ -6,9 +6,14 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuALI&hide=makefile,cmake,html,css&layout=compact&theme=bear"/>
 
 ## 💭About me.
-Over the past two years, I have gotten in touch a lot with Computer Science, from studying programming languages, algorithmics, data structures, web development, and doing research along with writing a scientific paper. \
-I'm interested in evolving a career as a software developer as I am just starting out. 
+Please write me an [email](mailto:laurentiuandoni2001@gmail.com) or discover my [work](https://laurentiuali.github.io/)
 
+BSc Computer Science graduate and MSc Software Engineering student with a passion for Software Engineering and Agile Methodologies. 
+
+My academic background and professional experiences have equipped me with a deep understanding of Agile practices and methodologies, which I am keen to apply in real-world scenarios. 
+I have hands-on experience with Java, React, Express, Docker, Kubernetes, Azure, MySQL, and MongoDB (and others). 
+
+I thrive in dynamic environments where creativity and problem-solving are valued, and I look forward to connecting with like-minded professionals in the industry.
 ✅ Enjoy challenges 👷‍♀️ \
 ✅ Ready for new experiences ✨ \
 ✅ Learning enthusiast 📚 
@@ -29,4 +34,4 @@ Currently learning:
 <img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
