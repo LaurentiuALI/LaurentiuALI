@@ -23,7 +23,7 @@ Please write me an [email](mailto:laurentiuandoni2001@gmail.com) or discover my 
 <img align="left" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<br/> <br/>
+<br/> <br/> <br/> <br/> <br/>   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuALI&hide=makefile,cmake,c,c%2B%2B&layout=compact&theme=bear"/>
 
 ## 💭About me.
